@@ -1,2 +1,2 @@
 # project-prog-web
-Tempat untuk Tugas Akhir Pemrogram Web : Website pariwisata
+Tempat untuk Tugas Akhir Pemrogram Web : Website pariwisata mahasiswa UPNVJ
